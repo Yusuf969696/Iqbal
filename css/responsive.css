@@ -1,0 +1,301 @@
+ 
+@media only screen and (min-width: 1366px) and (max-width: 1599px) {	
+.container{width:1334px; position:relative; }
+ 
+.banner-content {
+    width: 100%;
+    float: left;
+    margin: 280px 0 0 0;
+    padding: 0px;
+}
+.flexslider .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden; min-height:700px;} 
+.banner-content h2{font-size: 56px;line-height:62px; }
+.general-insurance-right h2{    font-size: 42px; line-height:44px;}
+.helping_section-left h2{    font-size: 42px; line-height:44px;}
+}
+ 
+@media only screen and (min-width: 1000px) and (max-width: 1365px) {	
+.container{width:980px; position:relative; }
+#cssmenu > ul > li{float:left; margin:0 18px 0 0; }
+#cssmenu > ul > li > a {
+    font-size: 18px;} 
+.banner-content {
+    width: 100%;
+    float: left;
+    margin: 220px 0 0 0;
+    padding: 0px;
+}
+.flexslider .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden; min-height:600px;} 
+.banner-content h2{font-size:48px;line-height:48px; }
+.general-insurance-right h2{    font-size:36px; line-height:36px;}
+.helping_section-left h2{    font-size: 36px; line-height:36px;}
+.general-insurance-right p{font-size:18px; line-height:26px}
+.helping_section-left p{font-size:18px; line-height:26px}
+.testimonial-content p{    padding: 0px 4%;
+    font-size:18px;
+    line-height: 26px }
+.feature-work ul li{margin: 0px 1% 20px;}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {	
+.container{ width:737px; position:relative; }
+ .menu{width:50%; float:right; margin:20px 0 0 0; padding:0px;} 
+.header1 .menu{width:50%; float:right; margin:20px 0 0 0; padding:0px;} 
+.contact-btn{ display:none;}
+.banner-content {
+    width: 100%;
+    float: left;
+    margin:180px 0 0 0;
+    padding: 0px;
+}
+.flexslider .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden; min-height:500px;} 
+.banner-content h2{font-size:36px;line-height:36px; }
+.general-insurance-left {
+    width:100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+    line-height: 0px; text-align:center
+}
+.general-insurance-right{width:100%; margin: 30px 0 0;}
+.general-insurance {
+    padding: 85px 0 45px;
+    background: #264490;
+}
+.general-insurance-right h2{    font-size:36px; line-height:36px;}
+.helping_section-left h2{    font-size: 36px; line-height:36px;}
+.general-insurance-right p{font-size:18px; line-height:26px}
+.helping_section-left p{font-size:18px; line-height:26px}
+.helping_section-left {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+}
+.helping_section-right{ width: 100%; margin:0px; padding:0px; text-align:left}
+.helping_section {
+    padding:85px 0 85px;
+}
+.testimonial-content p{    padding: 0px 4%;
+    font-size:18px;
+    line-height: 26px }
+.feature-work ul li{margin: 0px 1% 20px;}
+
+}
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {		
+.container{ width:95%; position:relative; }
+ .menu{width:50%; float:right; margin:20px 0 0 0; padding:0px;} 
+.header1 .menu{width:50%; float:right; margin:20px 0 0 0; padding:0px;} 
+.contact-btn{ display:none;}
+.banner-content {
+    width: 100%;
+    float: left;
+    margin:160px 0 0 0;
+    padding: 0px;
+}
+.flexslider .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden; min-height:400px;} 
+.banner-content h2{font-size:32px;line-height:32px; }
+.general-insurance-left {
+    width:100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+    line-height: 0px; text-align:center
+}
+.general-insurance-right{width:100%; margin: 30px 0 0;}
+.general-insurance {
+    padding: 85px 0 45px;
+    background: #264490;
+}
+.general-insurance-right h2{    font-size:36px; line-height:36px;}
+.helping_section-left h2{    font-size: 36px; line-height:36px;}
+.general-insurance-right p{font-size:18px; line-height:26px}
+.helping_section-left p{font-size:18px; line-height:26px}
+.helping_section-left {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+}
+.helping_section-right{ width: 100%; margin:0px; padding:0px; text-align:left}
+.helping_section {
+    padding:85px 0 85px;
+}
+.news-section h2{    font-size: 36px; line-height:36px; }
+.news-section ul li {
+    width:48%;
+    float: left;
+    margin: 0px 2% 30px 0;
+    padding: 0px;
+    list-style: none;
+}
+.news-section {
+    padding: 85px 0 65px 0;
+    background: #e7eaf3;
+}
+.testimonial {
+     padding: 85px 0 25px 0;
+}
+.testimonial-content p{    padding: 0px 4%;
+    font-size:18px;
+    line-height: 26px }
+.feature-work ul li{margin: 0px 3% 20px;}
+
+.testimonial h2{    font-size: 36px; line-height:36px; }
+#mixedSlider2 .MS-content .item {
+    display: inline-block;
+    width:48%;
+    position: relative;
+    vertical-align: top;
+    overflow: hidden;
+    height: 100%;
+    white-space: normal;
+    padding: 0px;
+    margin: 20px 1% 30px;
+    border-radius: 0px;
+}
+
+.contact-address {
+    width:40%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+}
+.find-us{width:60%;}
+.quick-footer {
+    width: 100%;
+    float: right;
+    margin: 0px;
+    padding: 30px 0 0 0;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 479px) {
+.container{ width:95%; position:relative;}
+ .menu{width:100%; float:right; margin:-50px 0 0 0; padding:0px;} 
+.logo {
+    width: 70%;
+    float: left;
+    line-height: 0px;
+    margin: 15px 0 15px;
+    padding: 0px;
+}
+.logo img{width:100%; height:auto;}
+.header1 .logo {
+    width: 70%;
+    float: left;
+    line-height: 0px;
+    margin: 15px 0 15px;
+    padding: 0px;
+}
+.header1 .logo img{width:100%; height:auto;}
+.header1 .menu{width:50%; float:right; margin:-50px 0 0 0; padding:0px;} 
+.contact-btn{ display:none;}
+.banner-content {
+    width: 100%;
+    float: left;
+    margin:120px 0 0 0;
+    padding: 0px;
+}
+.flexslider .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden; min-height:350px;} 
+.banner-content h2{font-size:26px;line-height:26px; }
+.general-insurance-left {
+    width:100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+    line-height: 0px; text-align:center
+}
+.general-insurance-right{width:100%; margin: 30px 0 0;}
+.general-insurance {
+    padding: 85px 0 45px;
+    background: #264490;
+}
+.general-insurance-right h2{    font-size:32px; line-height:32px;}
+.helping_section-left h2{    font-size: 32px; line-height:32px;}
+.general-insurance-right p{font-size:18px; line-height:26px}
+.helping_section-left p{font-size:18px; line-height:26px}
+.helping_section-left {
+    width: 100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+}
+.helping_section-right{ width: 100%; margin:0px; padding:0px; text-align:left}
+.helping_section {
+    padding:85px 0 85px;
+}
+.news-section h2{    font-size: 32px; line-height:32px; }
+.news-section ul li {
+    width:100%;
+    float: left;
+    margin: 0px 1% 30px 0;
+    padding: 0px;
+    list-style: none;
+}
+.news-section {
+    padding: 85px 0 65px 0;
+    background: #e7eaf3;
+}
+.testimonial {
+     padding: 85px 0 25px 0;
+}
+.testimonial-content p{    padding: 0px 4%;
+    font-size:18px;
+    line-height: 26px }
+.feature-work ul li{margin: 0px 3% 20px;}
+
+.testimonial h2{    font-size: 32px; line-height:32px; }
+#mixedSlider2 .MS-content .item {
+    display: inline-block;
+    width:100%;
+    position: relative;
+    vertical-align: top;
+    overflow: hidden;
+    height: 100%;
+    white-space: normal;
+    padding: 0px;
+    margin: 20px 0% 30px;
+    border-radius: 0px;
+}
+
+.contact-address {
+    width:100%;
+    float: left;
+    margin: 0px;
+    padding: 0px 0% 0 0;
+}
+.find-us{width:100%;padding: 30px 0 0 0;}
+.quick-footer {
+    width: 100%;
+    float: right;
+    margin: 0px;
+    padding: 30px 0 0 0;
+}
+.copyright-right {
+    width: 100%;
+    margin: 0px;
+    padding: 10px 0 0 0;
+  text-align: center; }
+.copyright{width: 100%; text-align:center}
+
+}
